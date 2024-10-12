@@ -17,7 +17,7 @@ const Footer = () => {
                   className="w-full h-full bg-transparent outline-none text-[#000000] font-openSans font-[400] text-[20px]"
                 />
               </div>
-              <button className="w-[210px] h-[60px] bg-[#65e4a3] text-[#ffffff] rounded-full flex items-center justify-center">
+              <button className="w-[210px] h-[60px] bg-[#65e4a3] text-[#000000] rounded-full flex items-center justify-center">
                 <h1 className="font-openSans font-[700] text-[20px] text-center">
                   Start now
                 </h1>
